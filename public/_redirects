@@ -1,0 +1,4 @@
+# Cloudflare Pages redirect rules
+# Clean URLs for success and cancel pages
+/success   /success.html   200
+/cancel    /cancel.html    200

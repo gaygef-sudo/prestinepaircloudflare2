@@ -1,0 +1,12 @@
+{
+  "name": "pristine-pair-cleaning",
+  "version": "3.0.0",
+  "description": "Pristine Pair Cleaning — Cloudflare Pages",
+  "private": true,
+  "scripts": {
+    "dev": "npx wrangler pages dev public"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
